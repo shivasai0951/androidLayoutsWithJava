@@ -50,7 +50,6 @@ public class productrvAdaptor extends RecyclerView.Adapter<productrvAdaptor.Myad
 
         myadaptor.productname.setText(pName);
 
-
         if(pIsAvlible.toString()=="true"){
             myadaptor.Available.setText("Available");
             myadaptor.Available.setTextColor(Color.GREEN);
