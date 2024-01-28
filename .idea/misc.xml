@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/temp/androidjava/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/temp/androidjava/app/src/main/res/drawable/roundedbutton.xml" value="0.1655" />
+        <entry key="..\:/temp/androidjava/app/src/main/res/layout/activity_get_api_screen.xml" value="0.33" />
+        <entry key="..\:/temp/androidjava/app/src/main/res/layout/activity_get_api_with_search_screen.xml" value="0.33" />
+        <entry key="..\:/temp/androidjava/app/src/main/res/layout/activity_main.xml" value="0.49144634525660963" />
         <entry key="..\:/temp/androidjava/app/src/main/res/layout/activity_recyclerviewfirst.xml" value="0.25" />
         <entry key="..\:/temp/androidjava/app/src/main/res/layout/productuirv.xml" value="0.5" />
       </map>
