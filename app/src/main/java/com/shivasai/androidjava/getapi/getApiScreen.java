@@ -30,11 +30,8 @@ public class getApiScreen extends AppCompatActivity {
     }
 
     private void getusers() {
-
-
         ArrayList<String> emails = new ArrayList<String>();
         getinterface getinterface=retrofit.getClient().create(com.shivasai.androidjava.getapi.getinterface.class);
-
         Call<List<getuserModel>> call=getinterface.doGetListResources();
 
 
